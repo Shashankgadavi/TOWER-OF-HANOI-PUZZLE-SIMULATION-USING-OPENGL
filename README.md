@@ -1,4 +1,4 @@
-#TOWER OF HANOI PUZZLE SIMULATION:
+# TOWER OF HANOI PUZZLE SIMULATION:
 
 Tower of Hanoi is a mathematical puzzle where we have three rods and n disks.
 
